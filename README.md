@@ -1,6 +1,8 @@
-# Assignment 6: Concurrent Sorting
+# Concurrent Sorting
 
-This is the starter code for [Assignment 6](https://course.ccs.neu.edu/cs3650f22/a06.html).
+Compares threaded merge sorts (tmsort.c) to a standard single threaded merge sort (msort.c). Written for a systems class. 
+
+Completed 11/16/2022.
 
 The [Makefile](Makefile) contains the following targets:
 
